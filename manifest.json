@@ -1,0 +1,35 @@
+{
+ "name": "はじめる – Belajar Jepang N5–N3",
+ "short_name": "はじめる",
+ "description": "Belajar bahasa Jepang N5 sampai N3: huruf, kanji, kosakata, partikel, dan latihan.",
+ "lang": "id",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#E9DFCC",
+ "theme_color": "#B2453F",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
