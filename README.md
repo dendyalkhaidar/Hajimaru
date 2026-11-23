@@ -10,7 +10,7 @@ Aplikasi belajar bahasa Jepang (PWA). Semua data sudah ada di dalam `index.html`
 5. Buka alamat itu di Chrome Android, ketuk menu ⋮ → **Tambahkan ke layar utama** / **Instal aplikasi**.
 
 ## Memperbarui
-Unggah ulang `index.html` (dan `sw.js` jika ada versi baru) ke repositori yang sama. Ubah nama cache di `sw.js` (`hajimeru-v3`) supaya HP memuat versi terbaru.
+Unggah ulang `index.html` (dan `sw.js` jika ada versi baru) ke repositori yang sama. Ubah nama cache di `sw.js` (`hajimeru-v5`) supaya HP memuat versi terbaru.
 
 ## Catatan
 - Progres belajar tersimpan di browser tiap perangkat. Gunakan Progres → Salin backup untuk memindahkan data.
